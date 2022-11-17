@@ -1,14 +1,14 @@
 # Dobry Craft Solar
 
 ## Cele
-* wsparcie w nauce wtwarzania oprogramowania zgodnie z praktykami promowanymi przez Dobry Craft
+* wsparcie w nauce wytwarzania oprogramowania zgodnie podejściem Software Craftsmanship i praktykami promowanymi przez Dobry Craft
 * analiza możliwości ograniczenia śladu węglowego serwerów web
 * analiza możliwości ograniczenia śladu węglowego pipeline'u developmentu aplikacji internetowych
 * zapewnienie otwartości rozwiązania (możliwości wykorzystania do innych stron/aplikacji)
 
 ## Cechy / stosowane praktyki
 * Open Source - software & hardware - rozwiązanie możliwe do zastosowania w innych projektach
-* Agile LOL :D
+* Agile LOL :D (!Scrum)
 * Code Review
 * TDD
 * CI
