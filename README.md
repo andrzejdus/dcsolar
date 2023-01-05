@@ -19,22 +19,4 @@
 * Agile / Inspect & Adapt / !Scrum
 
 ## Roadmapa
-## Faza 1 - Q1 2023
-* definicja i wdrożenie pierwszych mierników
-* przeniesienie strony Dobry Craft na serwer zasilany energią słoneczną
-* generowana strona statyczna z treścią Dobry Craft (np. Gatsby)
-* raport przewidywalnego śladu węglowego rozwiązania (vs tradycyjne podejście) 
-* wykorzystanie 
-
-## Faza 2 - Q2 2023
-* przeniesienie pipeline'u budowania strony Dobry Craft na zasilany energią słoneczną
-* aktualizacja raportu przewidywalnego śladu węglowego rozwiązania 
-* generalizacja rozwiązania
-
-## Faza X - H2 2023
-* rozważenie i ew. implementacja budowy panelu dynamiczego zarządzania treścią strony
-* aktualizacja raportu przewidywalnego śladu węglowego rozwiązania 
-* monitoring rozwiązania
-
-## Faza X++ - Beyond
-* “The best way to predict the future is to create it.”
+Roadmap has been moved to [milestones](https://github.com/andrzejdus/dcsolar/milestones?direction=asc&sort=due_date&state=open) tab.
